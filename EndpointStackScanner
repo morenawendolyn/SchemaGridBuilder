@@ -1,0 +1,23 @@
+
+---
+
+### **2. 32_EndpointStackScanner**  
+**Description:**  
+Scans stacks of endpoints and tracks latency, availability, and status changes.
+
+#### **README.md**
+```markdown
+# EndpointStackScanner - Multi-Target API Checker
+
+EndpointStackScanner helps devs monitor large stacks of services in one go, with a clear summary view.
+
+## Features
+- Batch scanning  
+- Logs response time + code  
+- Retry & timeout handling  
+
+## Usage
+```bash
+git clone https://github.com/your-username/32_EndpointStackScanner.git
+cd 32_EndpointStackScanner
+python monitor.py
