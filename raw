@@ -1,0 +1,23 @@
+
+---
+
+### **4. 32_ChartFluxViewer**  
+**Description:**  
+Displays real-time numeric values as a smooth scrolling line chart.
+
+#### **README.md**
+```markdown
+# ChartFluxViewer - Real-Time Data Visualizer
+
+ChartFluxViewer turns raw numeric streams into a fluid chart visualization for dashboards, sensors, or demos.
+
+## Features
+- Real-time updates  
+- Adjustable refresh rate  
+- Built with Matplotlib  
+
+## Usage
+```bash
+git clone https://github.com/your-username/32_ChartFluxViewer.git
+cd 32_ChartFluxViewer
+python visualize.py
