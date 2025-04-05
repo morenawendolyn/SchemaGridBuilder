@@ -1,0 +1,23 @@
+
+---
+
+### **3. 32_LogBurstRadar**  
+**Description:**  
+Detects bursts of activity and frequent lines in large log files.
+
+#### **README.md**
+```markdown
+# LogBurstRadar - Log Frequency & Spike Analyzer
+
+LogBurstRadar parses log files to find common lines and timestamped anomalies that may indicate instability or attack.
+
+## Features
+- Repetition clustering  
+- Burst detection  
+- Keyword filter  
+
+## Usage
+```bash
+git clone https://github.com/your-username/32_LogBurstRadar.git
+cd 32_LogBurstRadar
+python analyze.py logs/app.log
